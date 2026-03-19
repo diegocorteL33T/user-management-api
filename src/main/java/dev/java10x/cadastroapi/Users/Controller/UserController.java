@@ -1,4 +1,4 @@
-package dev.java10x.cadastroapi.controller;
+package dev.java10x.cadastroapi.Users.Controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,2 +1,2 @@
-# CadastroAPI
-Uma api de cadastro utilizando SpringBoot
+# User Management API
+A User management API built with SpringBoot
